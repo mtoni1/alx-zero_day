@@ -1,2 +1,14 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+#!bin/bash
+echo "The school is open!"
+=======
 !#/bin/bash
 echo "School"
+>>>>>>> 911ff66f1cba0e6bea8bd4c373c65541406fbeaa
+=======
+#!/bin/bash
+echo "The school is open!"<<<<<<< update_script
+#!bin/bash
+echo "The school is open!">>>>>>> main
+>>>>>>> 88ccb74e7167a1d95af11d430a554dbecdca4414
