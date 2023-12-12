@@ -1,1 +1,1 @@
-Stores all my project files
+This repo stores all my project git files currently
