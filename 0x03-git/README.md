@@ -1,1 +1,1 @@
-This is where I store all my git files
+Stores all my project files
